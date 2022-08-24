@@ -10,13 +10,13 @@
 -->
 
 ![project monai](https://github.com/Project-MONAI/.github/blob/main/images/logo-banner.png)
+
 <div align="center">
 <a href="http://monai.io">Website</a> | <a href="https://monai.medium.com/">Blog</a> | <a href="https://www.youtube.com/c/Project-MONAI">YouTube</a> | <a href="https://twitter.com/ProjectMONAI">Twitter</a>
 </div>
 
+## Welcome :wave:
 
-Welcome :wave:
----
 This is home to the [Project MONAI](https://monai.io/about.html) initiative where academic and industrial researchers establish and standardize the best practices for artificial intelligence in healthcare. Some of our work:
 
 - [MONAI Core](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
