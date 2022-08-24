@@ -22,4 +22,4 @@ This is home to the [Project MONAI](https://monai.io/about.html) initiative wher
 - [MONAI Core](https://github.com/Project-MONAI/MONAI) - AI Toolkit for Healthcare Imaging.
 - [MONAI Label](https://github.com/Project-MONAI/MONAILabel) - Intelligent open source image labeling and learning tool.
 - [MONAI Deploy App SDK](https://github.com/Project-MONAI/monai-deploy-app-sdk) - Framework to develop AI-driven applications for healthcare imaging.
-- [MONAI model zoo](https://github.com/Project-MONAI/model-zoo) - medical imaging models in the [MONAI Bundle](https://docs.monai.io/en/latest/bundle_intro.html) format.
+- [MONAI Model Zoo](https://github.com/Project-MONAI/model-zoo) - Medical imaging models in the [MONAI Bundle](https://docs.monai.io/en/latest/bundle_intro.html) format.
