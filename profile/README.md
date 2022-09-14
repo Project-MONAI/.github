@@ -1,6 +1,6 @@
 # Welcome to MONAI :wave:
 
-![project monai](../images/MONAI_Banner.png)
+![project monai](https://github.com/Project-MONAI/.github/blob/main/images/MONAI_Banner.png)
 
 <div align="center">
 <a href="http://monai.io">Website</a> | <a href="https://monai.medium.com/">Blog</a> | <a href="https://www.youtube.com/c/Project-MONAI">YouTube</a> | <a href="https://twitter.com/ProjectMONAI">Twitter</a>
