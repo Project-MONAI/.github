@@ -1,4 +1,5 @@
 # Welcome to MONAI :wave:
+
 ![project monai](../images/MONAI_Banner.png)
 
 <div align="center">
@@ -6,7 +7,8 @@
 </div>
 
 ## What is Project MONAI?
-Project MONAI is an initiative started initially by NVIDIA and King's College London to establish an inclusive community of AI researchers to develop and exchange best practices for AI in healthcare imaging across academia and enterprise researchers. This collaboration has expanded to include academic and industry leaders throughout the medical imaging field. 
+
+Project MONAI is an initiative started initially by NVIDIA and King's College London to establish an inclusive community of AI researchers to develop and exchange best practices for AI in healthcare imaging across academia and enterprise researchers. This collaboration has expanded to include academic and industry leaders throughout the medical imaging field.
 
 Project MONAI has released multiple open-source PyTorch-based frameworks for annotating, building, training, deploying, and optimizing AI workflows in healthcare. These frameworks provide high-quality, user-friendly software that facilitates reproducibility and easy integration. With these tenants, researchers can share their results and build upon each other's work, fostering collaboration among academic and industry researchers.
 
@@ -37,9 +39,9 @@ MONAI Core gives developers and researchers a PyTorch-driven library for deep le
 <details>
   <summary>Learn More</summary>
 
-MONAI Label is an intelligent image labeling and learning tool that uses AI assistance to reduce the time and effort of annotating new datasets. Utilizing user interactions, MONAI Label trains an AI model for a specific task and continuously learns and updates the model as it receives additional annotated images. 
+MONAI Label is an intelligent image labeling and learning tool that uses AI assistance to reduce the time and effort of annotating new datasets. Utilizing user interactions, MONAI Label trains an AI model for a specific task and continuously learns and updates the model as it receives additional annotated images.
 
-MONAI Label has integrations for 3D Slicer, OHIF for Radiology and QuPath, and Digital Slide Archive for Pathology. Developers can also integrate MONAI Label into their custom viewer using server and client APIs, which are well abstracted and documented for seamless integration. 
+MONAI Label has integrations for 3D Slicer, OHIF for Radiology and QuPath, and Digital Slide Archive for Pathology. Developers can also integrate MONAI Label into their custom viewer using server and client APIs, which are well abstracted and documented for seamless integration.
 
 </details>
 
