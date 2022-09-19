@@ -60,7 +60,7 @@ MONAI Deploy App SDK enables developers to take an AI model and turn them into A
 
 ### MONAI Model Zoo
 
-[Github](https://github.com/project-monai/model-zoo) | [Contribute Your Model](https://github.com/Project-MONAI/model-zoo/blob/dev/CONTRIBUTING.md)
+[Github](https://github.com/project-monai/model-zoo) | [Models](https://monai.io/model-zoo.html) | [Contribute Your Model](https://github.com/Project-MONAI/model-zoo/blob/dev/CONTRIBUTING.md)
 
 <details>
   <summary>Learn More</summary>
