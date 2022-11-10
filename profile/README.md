@@ -16,7 +16,8 @@ The suite of libraries, tools, and SDKs within MONAI provide a robust and common
 
 - [MONAI Core](https://github.com/project-monai/monai): A domain-specific framework for training AI models for healthcare imaging
 - [MONAI Label](https://github.com/project-monai/monailabel): An intelligent image labeling and learning tool to quickly annotate new datasets
-- [MONAI Deploy App SDK](https://github.com/project-monai/monai-deploy-app-sdk): Enables developers to take an AI model and turn them into an AI application
+- [MONAI Deploy](https://github.com/project-monai/monai-deploy): Bring trained models from research to clinical deployments.
+  - [MONAI Deploy App SDK](https://github.com/project-monai/monai-deploy-app-sdk): Enables developers to take an AI model and turn them into an AI application
 - [MONAI Model Zoo](https://github.com/project-monai/model-zoo): A collection of medical imaging models in the MONAI Bundle format
 
 ## MONAI Foundational Projects
