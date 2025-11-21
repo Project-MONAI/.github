@@ -3,7 +3,7 @@
 ![project monai](https://github.com/Project-MONAI/.github/blob/main/images/MONAI_Banner.png)
 
 <div align="center">
-<a href="http://monai.io">Website</a> | <a href="https://monai.medium.com/">Blog</a> | <a href="https://www.youtube.com/c/Project-MONAI">YouTube</a> | <a href="https://twitter.com/ProjectMONAI">Twitter</a>
+<a href="https://project-monai.github.io/">Website</a> | <a href="https://monai.medium.com/">Blog</a> | <a href="https://www.youtube.com/c/Project-MONAI">YouTube</a> | <a href="https://twitter.com/ProjectMONAI">Twitter</a>
 </div>
 
 ## What is Project MONAI?
@@ -23,7 +23,7 @@ The suite of libraries, tools, and SDKs within MONAI provide a robust and common
 
 ### MONAI Core
 
-[GitHub](https://github.com/Project-MONAI/MONAI) | [Tutorial](https://github.com/Project-MONAI/tutorials) | [Documentation](https://docs.monai.io/en/stable/)
+[GitHub](https://github.com/Project-MONAI/MONAI) | [Tutorial](https://github.com/Project-MONAI/tutorials) | [Documentation](https://monai.readthedocs.io/en/stable/)
 
 <details>
   <summary>Learn More</summary>
@@ -34,7 +34,7 @@ MONAI Core gives developers and researchers a PyTorch-driven library for deep le
 
 ### MONAI Label
 
-[GitHub](https://github.com/project-monai/monailabel) | [Quickstart](https://docs.monai.io/projects/label/en/latest/quickstart.html) | [Documentation](https://docs.monai.io/projects/label/en/latest/index.html)
+[GitHub](https://github.com/project-monai/monailabel) | [Quickstart](https://monai.readthedocs.io/projects/label/en/latest/quickstart.html) | [Documentation](https://monai.readthedocs.io/projects/label/en/latest/index.html)
 
 <details>
   <summary>Learn More</summary>
@@ -47,7 +47,7 @@ MONAI Label has integrations for 3D Slicer, OHIF for Radiology and QuPath, and D
 
 ### MONAI Deploy App SDK
 
-[GitHub](https://github.com/Project-MONAI/monai-deploy-app-sdk) | [Getting Started](https://docs.monai.io/projects/monai-deploy-app-sdk/en/latest/getting_started/index.html) | [Documentation](https://docs.monai.io/projects/monai-deploy-app-sdk/en/latest/index.html)
+[GitHub](https://github.com/Project-MONAI/monai-deploy-app-sdk) | [Getting Started](https://monai.readthedocs.io/projects/monai-deploy-app-sdk/en/stable/getting_started/index.html) | [Documentation](https://monai.readthedocs.io/projects/monai-deploy-app-sdk/en/stable/index.html)
 
 <details>
   <summary>Learn More</summary>
@@ -60,7 +60,7 @@ MONAI Deploy App SDK enables developers to take an AI model and turn them into A
 
 ### MONAI Model Zoo
 
-[Github](https://github.com/project-monai/model-zoo) | [Models](https://monai.io/model-zoo.html) | [Contribute Your Model](https://github.com/Project-MONAI/model-zoo/blob/dev/CONTRIBUTING.md)
+[Github](https://github.com/project-monai/model-zoo) | [Models](https://project-monai.github.io/model-zoo.html) | [Contribute Your Model](https://github.com/Project-MONAI/model-zoo/blob/dev/CONTRIBUTING.md)
 
 <details>
   <summary>Learn More</summary>
